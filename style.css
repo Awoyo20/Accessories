@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar{
+display: flex;
+background-color: white;
+border-bottom: 1px solid gray;
+
+
+}
+.list-item{
+    display: flex;
+    text-align: center;
+    letter-spacing: normal;
+    list-style: none;
+    justify-content: center;
+    justify-content: space-between;
+       
+}
+.list-item3{
+    position: relative;
+    justify-content: space-between;
+    left: 400px;
+    display: flex;
+    text-indent: 20px;
+    color: gray;
+    
+}
+
+
+.ash{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 100vh;
+}
+.head{
+    display: flex;
+    column-gap: 30px;
+    box-shadow: black;
+}
+.price{
+    box-sizing: 100px;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 12px;
+    
+}
+.add{
+    box-sizing: 100px;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white; 
+    background-color: blue;
+    border-radius: 12px;
+}
+.scontainer1{
+    padding: 50px;
+    width: 150px;
+    height: 350px;
+    background-color: white;
+    margin-top: 50px;
+    box-sizing: 100px;
+    box-shadow: 10px 10px #888888;
+}
+.another{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    top: -20px;
+}
+.push{
+    padding-left: 800px;
+}
+.scontainer2{
+    padding: 50px;
+    width: 150px;
+    height: 350px;
+    background-color: white;
+    margin-top: 50px;
+    box-shadow: 10px 10px #888888;
+}
+.scontainer3{
+    padding: 50px;
+    width: 150px;
+    height: 350px;
+    background-color: white;
+    margin-top: 50px;
+    box-shadow: 10px 10px #888888;
+}
+.scontainer4{
+    padding: 50px;
+    width: 150px;
+    height: 350px;
+    background-color: white;
+    margin-top: 50px;
+    box-shadow: 10px 10px #888888;
+}
+
+
